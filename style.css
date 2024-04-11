@@ -129,11 +129,11 @@ body {
 .slider::-moz-range-thumb {
   width: 10px;
   height: 10px;
-  background: rgb(3, 16, 71));
+  background: rgb(3, 16, 71);
 }
 
 /* JS Color */
-.jscolor {
+.jsolor {
   border-style: none;
   border-radius: 5px;
   height: 35px;
